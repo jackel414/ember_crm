@@ -44,3 +44,6 @@ gem 'emblem-rails'
 gem 'ffaker'
 
 gem 'puma'
+
+#heroku gem
+gem 'rails_12factor'
